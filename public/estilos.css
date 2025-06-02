@@ -1,0 +1,22 @@
+.centrado{
+    text-align: center;
+    border: 3px solid green;
+}
+
+body{
+    background: rgb(0,212,255);
+background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(33,69,175,1) 83%);
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+th{
+  border: #4CAF50;
+}
